@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro, mas pode me chamar de Alves :)
 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo Java e Python
 - ⚡ Curiosidade: gosto da cor verde, adoro jogar videogame e gosto de aprender coisas novas
 <div>  
 <a href="https://github.com/pesouzaaa">
